@@ -2,8 +2,8 @@
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
-	<title>FSN Cursos Online</title>
-	<meta name="author" content="Fábio Souza - FSN Cursos Online">
+	<title>Hotels Reservas</title>
+	<meta name="author" content="Jhonathan Ribeiro">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 	<!-- IMPORTANDO GOOGLE ICONS -->
@@ -476,14 +476,12 @@
         </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2018 Copyright FSN Cursos Online
-            <a class="grey-text text-lighten-4 right" href="#!">Fábio Souza</a>
+            © 2019
+            <a class="grey-text text-lighten-4 right" href="#!">Jhonathan Ribeiro</a>
             </div>
           </div>
     </footer>
 
-
-	
 	<!-- IMPORTANDO JQUERY E JAVASCRIPT -->
 	<script src="js/jquery-3.3.1.min.js"></script>
 	<script src="js/materialize.min.js"></script>
